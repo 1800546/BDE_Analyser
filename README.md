@@ -19,7 +19,7 @@ ICT2202 DEL_SYS32
 
 
 Purpose:
-This too is used to analyse a chunk of raw binary data extracted from filesystem, and identify the unfragmented file(s) present inside
+This too is used to analyse a chunk of raw binary data extracted from filesystem, and identify the filetype of unfragmented file(s) present inside, and even carve it/them out if supported filetype(s)
 
 
 
@@ -67,7 +67,7 @@ Understanding the terminology used in the program:
 
 -Level 2: In depth scanning of chunks. This scan can detect way more than the previous level.
 
--Level 3: This is the recovery level. If level 3 scans are successful, recovery of file(s) embedded in the chunks will be done.
+-Level 3: This is the recovery level. If level 3 scans are successful, recovery of file(s) embedded in the chunks will be done. As of the current state, only GIF and PNG files are eligible for Level 3 recovery
 
 
 
