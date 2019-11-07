@@ -71,6 +71,12 @@ Understanding the terminology used in the program:
 
 
 
+Limitations:
+
+-For a level 2 scan, the probability % is assuming the input is a single-file chunk, and the probability % will not be applicable to a multi-file chunk as there is no algorithm in the tool for multi-file chunk probability % at level 2 scan stage.
+
+
+
 When to use this program:
 
 -This program is meant as an aid for computer forensics investigation
