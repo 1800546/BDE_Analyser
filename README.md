@@ -19,7 +19,7 @@ ICT2202 DEL_SYS32
 
 
 Purpose:
-This too is used to analyse a chunk of raw binary data extracted from filesystem, and identify the filetype of unfragmented file(s) present inside, and even carve it/them out if supported filetype(s)
+This tool is used to analyse a chunk of raw binary data extracted from filesystem, and identify the filetype of unfragmented file(s) present inside, and even carve it/them out if supported filetype(s)
 
 
 
