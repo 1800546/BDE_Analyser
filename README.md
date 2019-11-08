@@ -25,7 +25,7 @@ This tool is used to analyse a chunk of raw binary data extracted from filesyste
 
 Recommended System Configuration:
 
-The coding did not use any OS-specific libraries or featuers, so it should most likely be cross-platform, but that has not been tested yet. So, for now, kindly follow the recommended system configuration.
+The coding did not use any OS-specific libraries or features, so it should most likely be cross-platform, but that has not been tested yet. So, for now, kindly follow the recommended system configuration.
 
 -Windows 10 x64 (https://www.microsoft.com/en-us/store/b/windows)
 
