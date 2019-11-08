@@ -45,7 +45,7 @@ Optional additional softwares:
 
 Usage instructions:
 
--This program runs on python console. So, if the user has python 3.7.2 instealled on their Windows 10 x64 machine, they can just type "python .\BDE_Analyser.py" in Powershell once navigated to the project directory
+-This program runs on python console. So, if the user has python 3.7.2 installed on their Windows 10 x64 machine, they can just type "python .\BDE_Analyser.py" in Windows Powershell once navigated to the project directory
 
 -The program does not need any parameters to start, as it is an interactive console program
 
