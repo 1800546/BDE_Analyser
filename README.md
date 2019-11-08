@@ -53,7 +53,7 @@ Usage instructions:
 
 -All files should be in the same folder (project folder)
 
--There are 15 sample input in the project folder to try with BDE_Analyser – namely testfile01 to testfile14, and trailerdemo. This will give a rough idea of how it works. 
+-There are 15 sample input in the project folder to try with BDE_Analyser – namely testfile01 to testfile14, and cutoffdemo. This will give a rough idea of how it works. 
 
 -If Level 3 tests are successful, the recovered file(s) will be placed in the "recovered" folder
 
