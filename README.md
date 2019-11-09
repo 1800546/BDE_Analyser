@@ -22,6 +22,9 @@ Purpose:
 This tool is used to analyse a chunk of raw binary data extracted from filesystem, and identify the filetype of unfragmented file(s) present inside, and even carve it/them out if supported filetype(s)
 
 
+Video demonstration:
+https://www.youtube.com/watch?v=bxCZGzmHQdQ
+
 
 Recommended System Configuration:
 
