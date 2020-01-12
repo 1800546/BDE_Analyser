@@ -25,6 +25,9 @@ This tool is used to analyse a chunk of raw binary data extracted from filesyste
 Video demonstration:
 https://www.youtube.com/watch?v=bxCZGzmHQdQ
 
+Detailed Manual:
+https://github.com/1800546/BDE_Analyser/blob/master/User%20Manual.pdf
+
 
 Recommended System Configuration:
 
