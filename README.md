@@ -1,6 +1,4 @@
 # BDE_Analyser
-BDE_Analyser v1.0
-
 
 
 Description:
