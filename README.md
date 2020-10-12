@@ -13,10 +13,6 @@ Version:
 
 
 
-Author:
-ICT2202 DEL_SYS32
-
-
 
 Purpose:
 This tool is used to analyse a chunk of raw binary data extracted from filesystem, and identify the filetype of unfragmented file(s) present inside, and even carve it/them out if supported filetype(s)
@@ -31,13 +27,12 @@ https://github.com/1800546/BDE_Analyser/blob/master/User%20Manual.pdf
 
 Recommended System Configuration:
 
-The coding did not use any OS-specific libraries or features, so it should most likely be cross-platform, but that has not been tested yet. So, for now, kindly follow the recommended system configuration.
+The coding did not use any OS-specific libraries or features, so it should most likely be cross-platform, but that has not been tested yet. However, pycharm was used as the IDE when coding, and hence it is probably required for execution too.
 
 -Windows 10 x64 (https://www.microsoft.com/en-us/store/b/windows)
 
 -Python 3.7.2 (https://www.python.org/downloads/release/python-372/)
 
--Intel i5(5th Gen) or better
 
 
 
